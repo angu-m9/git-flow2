@@ -9,3 +9,16 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+  .navbar {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .navbar:hover {
+    background-color: #ddd;
+    color: black;
+  }
